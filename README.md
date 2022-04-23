@@ -1,2 +1,2 @@
-# space-rocks-front
-Frontend repository for the "space rocks!" nft project
+# Zone 642 Frontend
+Frontend repository for the "Zone 642" nft project.
